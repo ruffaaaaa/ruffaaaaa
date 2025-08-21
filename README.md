@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ruffa Mae Arañez</h1>
-<h3 align="center">An aspiring web developer from the Philippines</h3>
+<h1>Hello there!
+<h3>I'm Ruffa Mae, a developer based in the Philippines</h3>
 
 - 📫 How to reach me **aranez.ruffa@gmail.com**
 
