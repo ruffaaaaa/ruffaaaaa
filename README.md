@@ -1,6 +1,7 @@
 <h2>Hello there!</h2>
 <h3>I'm Ruffa Mae, a developer based in the Philippines</h3>
 
+I enjoy building responsive websites and learning new technologies. I’m currently exploring JavaScript frameworks and backend development.
 - 📫 How to reach me **aranez.ruffa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
