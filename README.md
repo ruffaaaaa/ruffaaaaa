@@ -1,4 +1,4 @@
-<h1>Hello there!
+<h2>Hello there!</h2>
 <h3>I'm Ruffa Mae, a developer based in the Philippines</h3>
 
 - 📫 How to reach me **aranez.ruffa@gmail.com**
